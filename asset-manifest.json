@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/uang-kuliah/static/css/main.b76a7bc9.chunk.css",
+    "main.js": "/uang-kuliah/static/js/main.538caf7c.chunk.js",
+    "main.js.map": "/uang-kuliah/static/js/main.538caf7c.chunk.js.map",
+    "runtime-main.js": "/uang-kuliah/static/js/runtime-main.5300206f.js",
+    "runtime-main.js.map": "/uang-kuliah/static/js/runtime-main.5300206f.js.map",
+    "static/css/2.e89b8d4f.chunk.css": "/uang-kuliah/static/css/2.e89b8d4f.chunk.css",
+    "static/js/2.fe02945b.chunk.js": "/uang-kuliah/static/js/2.fe02945b.chunk.js",
+    "static/js/2.fe02945b.chunk.js.map": "/uang-kuliah/static/js/2.fe02945b.chunk.js.map",
+    "static/js/3.d9aa5082.chunk.js": "/uang-kuliah/static/js/3.d9aa5082.chunk.js",
+    "static/js/3.d9aa5082.chunk.js.map": "/uang-kuliah/static/js/3.d9aa5082.chunk.js.map",
+    "index.html": "/uang-kuliah/index.html",
+    "static/css/2.e89b8d4f.chunk.css.map": "/uang-kuliah/static/css/2.e89b8d4f.chunk.css.map",
+    "static/css/main.b76a7bc9.chunk.css.map": "/uang-kuliah/static/css/main.b76a7bc9.chunk.css.map",
+    "static/js/2.fe02945b.chunk.js.LICENSE.txt": "/uang-kuliah/static/js/2.fe02945b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5300206f.js",
+    "static/css/2.e89b8d4f.chunk.css",
+    "static/js/2.fe02945b.chunk.js",
+    "static/css/main.b76a7bc9.chunk.css",
+    "static/js/main.538caf7c.chunk.js"
+  ]
+}
